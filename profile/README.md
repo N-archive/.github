@@ -58,4 +58,4 @@ URL : https://github.com/ChunBaee/Narchive_AOS
 ## 크리티컬한 이슈
 - 네이버 영화 API가 종료됨에 따라 영화 API 대체제를 찾아봤으나 온전한 정보를 찾기가 힘들다.
   - TMDB는 감독/배우가 없고, 영화진흥원은 포스터가 없음
-
+  - 수정방안 추가 : TMDB와 영화진흥원 API를 Back단에서 엮어서 사용해보기로 결정했다.
