@@ -5,7 +5,9 @@ URL : https://github.com/ChunBaee/Narchive_AOS
 
 ## 현재 진행중
 User Research : https://pouncing-cardamom-213.notion.site/User-Reserch-e11569acbc46405589decb5b59fdf153
+
 IA : https://pouncing-cardamom-213.notion.site/IA-ed852445a1e94375a9797613be755ce3
+
 Design : https://pouncing-cardamom-213.notion.site/Design-a16bf2b8fd544f559f197cd5905e43f6
 
 ## 왜 기획 이전을 생각했는지?
