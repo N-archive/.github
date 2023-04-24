@@ -3,6 +3,10 @@ URL : https://github.com/ChunBaee/Narchive_AOS
 
 나카이브의 초안이 담긴 레포지토리
 
+## 현재 진행중
+User Research : https://pouncing-cardamom-213.notion.site/User-Reserch-e11569acbc46405589decb5b59fdf153
+IA : https://pouncing-cardamom-213.notion.site/IA-ed852445a1e94375a9797613be755ce3
+Design : https://pouncing-cardamom-213.notion.site/Design-a16bf2b8fd544f559f197cd5905e43f6
 
 ## 왜 기획 이전을 생각했는지?
 우선적인 계기로는 릴리즈를 위한 앱 키를 잊어버린 데 있었다.
